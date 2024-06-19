@@ -1,0 +1,44 @@
+
+.padding50{
+    padding: 50px 0;
+    }
+    
+    .padding100{
+    padding: 100px 0;
+    }
+    
+    
+    .padding150{
+    padding: 150px 0;
+    }
+    
+    .noMargin{
+      margin-bottom: 0px;
+    }
+    
+    .bg-image-full {
+        background: no-repeat center center scroll;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        background-size: cover;
+        -o-background-size: cover;
+    }
+
+    
+    .carousel-item img {
+      height: 300px;
+    
+    }
+.full-page{
+        background: url(../../assets/img/img.jpg) no-repeat center center fixed;
+        height: 100%;
+        color: white;
+        display: flex;
+       align-items: center;
+      }
+.navbar-brand{
+    font-size: 2rem !important;
+}
+.nav-link{
+    color: red !important;
+}
